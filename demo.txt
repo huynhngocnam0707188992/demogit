@@ -1,3 +1,7 @@
 toi ten nam
 toi hoc ki thuat phan mem
+<<<<<<< HEAD
 toi hoc nam hai
+=======
+toi hoc nam nhat
+>>>>>>> 412d1c6b56a64077690726a57f0283a0b44ae615
